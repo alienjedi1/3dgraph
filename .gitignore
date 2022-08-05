@@ -6,3 +6,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+.config/
+
+venv/
+
+poetry.lock
+pyproject.toml
+
+.replit
+replit.nix
